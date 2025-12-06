@@ -1,5 +1,5 @@
 # Billiards.js
-
+billiards.js
 Pure JavaScript library to play animation like a billiards with canvas.  
 Demo is [here](https://mimonelu.github.io/billiards-js/).
 
